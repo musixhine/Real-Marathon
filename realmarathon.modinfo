@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="34474cc1e88c49a584a773a7c8cd00f4" version="1">
+	<Properties>
+		<Name>Real Marathon</Name>
+		<Teaser>Marathon Lovers Will Love This</Teaser>
+		<Description>Marathon speed with more fun and feels realistic</Description>
+		<Authors>Put your name here</Authors>
+	</Properties>
+
+    <!-- Files included -->
+	<Files>
+		<File>Unit.sql</File>
+	</Files>
+
+    <!-- Different parts of the mod -->
+	<Components>
+		<UpdateDatabase id="1">
+			<Items>
+ 				<File>Unit.sql</File>
+			</Items>
+		</UpdateDatabase>
+	</Components>
+</Mod>
