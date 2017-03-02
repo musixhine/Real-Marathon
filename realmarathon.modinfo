@@ -4,7 +4,7 @@
 		<Name>Real Marathon</Name>
 		<Teaser>Marathon Lovers Will Love This</Teaser>
 		<Description>Marathon speed with more fun and feels realistic</Description>
-		<Authors>Put your name here</Authors>
+		<Authors>musixhine</Authors>
 	</Properties>
 
     <!-- Files included -->
@@ -14,7 +14,7 @@
 
     <!-- Different parts of the mod -->
 	<Components>
-		<UpdateDatabase id="1">
+		<UpdateDatabase id="realmarathon">
 			<Items>
  				<File>Unit.sql</File>
 			</Items>
