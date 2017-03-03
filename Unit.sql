@@ -60,7 +60,7 @@
 /*  Infantry                */UPDATE Units SET Cost='145', Maintenance='6' WHERE Name='LOC_UNIT_INFANTRY_NAME'; 
 /*  Artillery               */UPDATE Units SET Cost='180', Maintenance='7' WHERE Name='LOC_UNIT_ARTILLERY_NAME'; 
 /*  Battleship              */UPDATE Units SET Cost='250', Maintenance='8' WHERE Name='LOC_UNIT_BATTLESHIP_NAME'; 
-/*  Minas Geraes            */UPDATE Units SET Cost='145', Maintenance='6' WHERE Name='LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME'; 
+/*  Minas Geraes            */UPDATE Units SET Cost='250', Maintenance='8' WHERE Name='LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME'; 
 /*  Submarine               */UPDATE Units SET Cost='280', Maintenance='7' WHERE Name='LOC_UNIT_SUBMARINE_NAME'; 
 /*  UBoat                   */UPDATE Units SET Cost='260', Maintenance='7' WHERE Name='LOC_UNIT_GERMAN_UBOAT_NAME'; 
 /*  AT Crew                 */UPDATE Units SET Cost='135', Maintenance='5' WHERE Name='LOC_UNIT_AT_CREW_NAME'; 
