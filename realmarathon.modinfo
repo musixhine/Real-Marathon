@@ -17,6 +17,7 @@
 		<UpdateDatabase id="realmarathon">
 			<Items>
  				<File>Unit.sql</File>
+ 				<File>SpeedAndMode.sql</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
