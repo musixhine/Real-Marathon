@@ -17,10 +17,18 @@
 		<UpdateDatabase id="realmarathon">
 			<Items>
  				<File>Unit.sql</File>
+ 				<File>Assets\Configuration\Data\GameSpeeds.XML</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
-	<File>
+	<Settings>
+		<Custom id="realmarathonspeed">
+			<Items>
+				<File>Assets\Configuration\Data\GameSpeeds.XML</File>
+			</Items>
+	</Settings>
+	<Files>
+		<File>Unit.sql</File>
 		<File>Assets\Configuration\Data\GameSpeeds.XML</File>
-	</File>
+	</Files>
 </Mod>

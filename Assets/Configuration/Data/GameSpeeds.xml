@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GameInfo>
-	<GameSpeeds>
-		<Row GameSpeedType="GAMESPEED_MARATHON" Name="LOC_GAMESPEED_MARATHON_NAME" Description="LOC_GAMESPEED_MARATHON_HELP" SortIndex="50" />	
-	</GameSpeeds>
-</GameInfo>
