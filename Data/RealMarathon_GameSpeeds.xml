@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameInfo>
+	<GameSpeeds>
+		<Delete GameSpeedType="GAMESPEED_EPIC" Name="LOC_GAMESPEED_EPIC_NAME" Description="LOC_GAMESPEED_EPIC_HELP" SortIndex="40" />
+		<Delete GameSpeedType="GAMESPEED_STANDARD" Name="LOC_GAMESPEED_STANDARD_NAME" Description="LOC_GAMESPEED_STANDARD_HELP" SortIndex="30" />
+		<Delete GameSpeedType="GAMESPEED_QUICK" Name="LOC_GAMESPEED_QUICK_NAME" Description="LOC_GAMESPEED_QUICK_HELP" SortIndex="20" />
+		<Delete GameSpeedType="GAMESPEED_ONLINE" Name="LOC_GAMESPEED_ONLINE_NAME" Description="LOC_GAMESPEED_ONLINE_HELP" SortIndex="10" />		
+	</GameSpeeds>
+</GameInfo>

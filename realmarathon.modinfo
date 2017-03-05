@@ -3,32 +3,32 @@
 	<Properties>
 		<Name>Real Marathon</Name>
 		<Teaser>Marathon Lovers Will Love This</Teaser>
-		<Description>Marathon speed with more fun and feels realistic</Description>
+		<Description>Marathon speed with more wars!</Description>
 		<Authors>musixhine</Authors>
 	</Properties>
-
-    <!-- Files included -->
-	<Files>
-		<File>Unit.sql</File>
-	</Files>
-
-    <!-- Different parts of the mod -->
+	<Settings>
+		<UpdateDatabase id="realmarathonrule">
+			<Properties>
+               <Ruleset>RULESET_REALMARATHON</Ruleset>
+			</Properties>
+			<Items>
+				<File>Data/RealMarathon_Configs.XML</File>
+			</Items>
+		</UpdateDatabase>
+	</Settings>
 	<Components>
 		<UpdateDatabase id="realmarathon">
+			<Properties>
+               <Ruleset>RULESET_REALMARATHON</Ruleset>
+			</Properties>
 			<Items>
  				<File>Unit.sql</File>
- 				<File>Assets\Configuration\Data\GameSpeeds.XML</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
-	<Settings>
-		<Custom id="realmarathonspeed">
-			<Items>
-				<File>Assets\Configuration\Data\GameSpeeds.XML</File>
-			</Items>
-	</Settings>
+
 	<Files>
 		<File>Unit.sql</File>
-		<File>Assets\Configuration\Data\GameSpeeds.XML</File>
+		<File>Data/RealMarathon_Configs.XML</File>
 	</Files>
 </Mod>
