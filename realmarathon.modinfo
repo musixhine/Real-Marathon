@@ -3,19 +3,10 @@
 	<Properties>
 		<Name>Real Marathon</Name>
 		<Teaser>Marathon Lovers Will Love This</Teaser>
-		<Description>Marathon speed with more wars!</Description>
+		<Description>Marathon speed with more wars! Reduced base cost for melee and ranged land units. Reduced a little for mounted (including tanks). And normal cost for naval and air units. Also, higher upkeep for units (but not recons), so you need a strong economy to support a stronger army. Otherwise you are like North Korea where there are only cheap units.....</Description>
 		<Authors>musixhine</Authors>
 	</Properties>
-	<Settings>
-		<UpdateDatabase id="realmarathonrule">
-			<Properties>
-               <Ruleset>RULESET_REALMARATHON</Ruleset>
-			</Properties>
-			<Items>
-				<File>Data/RealMarathon_Configs.XML</File>
-			</Items>
-		</UpdateDatabase>
-	</Settings>
+
 	<Components>
 		<UpdateDatabase id="realmarathon">
 			<Properties>
@@ -29,6 +20,5 @@
 
 	<Files>
 		<File>Unit.sql</File>
-		<File>Data/RealMarathon_Configs.XML</File>
 	</Files>
 </Mod>
