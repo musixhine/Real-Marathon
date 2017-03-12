@@ -21,7 +21,9 @@
 
 	<Components>
 		<UpdateDatabase id="realmarathon">
-			<Items>
+			<Properties>
+               <Ruleset>RULESET_REALMARATHON</Ruleset>
+			</Properties>
  				<File>Unit.sql</File>
  				<File>Pace.sql</File>
  				<File>Starting.xml</File>
