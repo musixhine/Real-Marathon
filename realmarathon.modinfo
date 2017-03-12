@@ -7,15 +7,31 @@
 		<Authors>musixhine</Authors>
 	</Properties>
 
+	<Settings>
+		<UpdateDatabase id="realmarathonrule">
+			<Properties>
+               <Ruleset>RULESET_REALMARATHON</Ruleset>
+			</Properties>
+			<Items>
+				<File>Ruleset.xml</File>
+			</Items>
+		</UpdateDatabase>
+	</Settings>
+
 	<Components>
 		<UpdateDatabase id="realmarathon">
 			<Items>
  				<File>Unit.sql</File>
+ 				<File>Pace.sql</File>
+ 				<File>Starting.xml</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
 
 	<Files>
 		<File>Unit.sql</File>
+		<File>Pace.sql</File>
+		<File>Ruleset.xml</File>
+		<File>Starting.xml</File>
 	</Files>
 </Mod>

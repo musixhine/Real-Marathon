@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Rulesets>
+		<Row>
+			<RulesetType>RULESET_REALMARATHON</RulesetType>
+			<Name>Real Marathon</Name>
+			<Description>Marathon speed with more wars!</Description>
+			<RequiresUniqueLeaders>1</RequiresUniqueLeaders>
+		</Row>
+	</Rulesets>
+	<RulesetSupportedValues>
+		<Row Ruleset="RULESET_REALMARATHON" Domain="StandardEras" Value="ERA_ANCIENT"/>
+		<Row Ruleset="RULESET_REALMARATHON" Domain="StandardGameSpeeds" Value="GAMESPEED_MARATHON"/>
+		<Row Ruleset="RULESET_REALMARATHON" Domain="StandardMapSizes" Value="MAPSIZE_HUGE"/>
+	</RulesetSupportedValues>
+	
+</GameInfo>
