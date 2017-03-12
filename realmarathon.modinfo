@@ -14,6 +14,7 @@
 			</Properties>
 			<Items>
 				<File>Ruleset.xml</File>
+				<File>NoGoodyHuts.sql</File>
 			</Items>
 		</UpdateDatabase>
 	</Settings>
@@ -33,5 +34,6 @@
 		<File>Pace.sql</File>
 		<File>Ruleset.xml</File>
 		<File>Starting.xml</File>
+		<File>NoGoodyHuts.sql</File>
 	</Files>
 </Mod>

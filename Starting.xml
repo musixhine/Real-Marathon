@@ -3,6 +3,6 @@
 		<delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" NotStartTile="true"/>
 		<delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
 		<delete Era="ERA_ANCIENT" Unit="UNIT_BUILDER" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="0.5" OnDistrictCreated="true"/>
-		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" Quantity="2" NotStartTile="true"/>
-		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" AiOnly="true" Quantity="2" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
+		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" Quantity="1" NotStartTile="true"/>
+		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" AiOnly="true" Quantity="1" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
 </MajorStartingUnits>
