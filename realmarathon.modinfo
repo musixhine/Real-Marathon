@@ -24,6 +24,7 @@
 			<Properties>
                <Ruleset>RULESET_REALMARATHON</Ruleset>
 			</Properties>
+			<Items>
  				<File>Unit.sql</File>
  				<File>Pace.sql</File>
  				<File>Starting.xml</File>
