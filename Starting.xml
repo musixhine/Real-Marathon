@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameInfo>
 	<MajorStartingUnits>
-		<delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" NotStartTile="true"/>
-		<delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
-		<delete Era="ERA_ANCIENT" Unit="UNIT_BUILDER" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="0.5" OnDistrictCreated="true"/>
-		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" Quantity="1" NotStartTile="true"/>
-		<row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" AiOnly="true" Quantity="1" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
+		<Delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" NotStartTile="true"/>
+		<Delete Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
+		<Delete Era="ERA_ANCIENT" Unit="UNIT_BUILDER" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="0.5" OnDistrictCreated="true"/>
+		<Row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" NotStartTile="true"/>
+		<Row Era="ERA_ANCIENT" Unit="UNIT_SCOUT" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
 	</MajorStartingUnits>
 </GameInfo>
