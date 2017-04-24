@@ -84,4 +84,7 @@
 /*  Modern Armor            */UPDATE Units SET Cost='350', Maintenance='14' WHERE Name='LOC_UNIT_MODERN_ARMOR_NAME'; 
 /*  Digger                  */UPDATE Units SET Cost='145', Maintenance='9' WHERE Name='LOC_UNIT_DIGGER_NAME'; 
 /*  Eagle Warrior           */UPDATE Units SET Cost='20', Maintenance='2' WHERE Name='LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME';
-/*  Hussar                  */UPDATE Units SET Cost='125', Maintenance='5' WHERE Name='LOC_UNIT_POLISH_HUSSAR_NAME';   
+/*  Hussar                  */UPDATE Units SET Cost='125', Maintenance='9' WHERE Name='LOC_UNIT_POLISH_HUSSAR_NAME';   
+/*  Hypaspist               */UPDATE Units SET Cost='35', Maintenance='5' WHERE Name='LOC_UNIT_MACEDONIAN_HYPASPIST_NAME';
+/*  Hetairoi                */UPDATE Units SET Cost='45', Maintenance='5' WHERE Name='LOC_UNIT_MACEDONIAN_HETAIROI_NAME';
+/*  Immortal                */UPDATE Units SET Cost='35', Maintenance='5' WHERE Name='LOC_UNIT_PERSIAN_IMMORTAL_NAME';
