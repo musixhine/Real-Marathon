@@ -10,7 +10,7 @@
 	<Settings>
 		<UpdateDatabase id="realmarathonrule">
 			<Properties>
-               <Ruleset>RULESET_REALMARATHON</Ruleset>
+               <RuleSet>RULESET_REALMARATHON</RuleSet>
 			</Properties>
 			<Items>
 				<File>Ruleset.xml</File>
@@ -21,23 +21,25 @@
 	<Components>
 		<UpdateDatabase id="realmarathon">
 			<Properties>
-               <Ruleset>RULESET_REALMARATHON</Ruleset>
+               <RuleSet>RULESET_REALMARATHON</RuleSet>
 			</Properties>
 			<Items>
  				<File>Unit.sql</File>
+ 				<File>Districts.sql</File>
  				<File>Pace.sql</File>
  				<File>Starting.xml</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
 
-<!---
+
 	<Files>
 		<File>Unit.sql</File>
+		<File>Districts.sql</File>
 		<File>Pace.sql</File>
 		<File>Ruleset.xml</File>
 		<File>Starting.xml</File>
 	</Files>
---->
+
 
 </Mod>
