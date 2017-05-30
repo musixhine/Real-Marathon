@@ -10,6 +10,7 @@
 	</Rulesets>
 	<RulesetSupportedValues>
 		<Row Ruleset="RULESET_REALMARATHON" Domain="StandardEras" Value="ERA_ANCIENT"/>
+		<Row Ruleset="RULESET_REALMARATHON" Domain="StandardGameSpeeds" Value="GAMESPEED_MARATHON"/>
 	</RulesetSupportedValues>
 	
 </GameInfo>
