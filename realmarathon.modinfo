@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Mod id="34474cc1e88c49a584a773a7c8cd00f4" version="0.3.1">
+<Mod id="34474cc1e88c49a584a773a7c8cd00f4" version="0.4">
 	<Properties>
-		<Name>Real Marathon v 0.3 -- Historical Speed</Name>
+		<Name>Real Marathon v 0.4 -- Historical Speed</Name>
 		<Teaser>Marathon Lovers Will Love This</Teaser>
 		<Description>Marathon speed with more wars! Reduced base cost for melee and ranged land units. Reduced a little for mounted (including tanks). And normal cost for naval and air units. Also, higher upkeep for units (but not recons), so you need a strong economy to support a stronger army. Otherwise you are like North Korea where there are only cheap units.....</Description>
 		<Authors>musixhine</Authors>
