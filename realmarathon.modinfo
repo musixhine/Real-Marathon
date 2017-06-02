@@ -22,6 +22,7 @@
 		<UpdateDatabase id="realmarathon">
 			<Properties>
                <RuleSet>RULESET_REALMARATHON</RuleSet>
+               <LoadOrder>999999</LoadOrder>
 			</Properties>
 			<Items>
  				<File>Unit.sql</File>
